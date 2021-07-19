@@ -2,5 +2,5 @@
 *~
 node_modules
 package-lock.json
-qualified-attach.json
+.qualified-attach.json
 .attachignore
